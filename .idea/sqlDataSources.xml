@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="dd9569f6-fe34-4181-a484-6cf18a4dfd05" name="test_mem Mapping">
+      <data-sources db="299e1bfe-26fa-4afe-95a9-3f3aa731d963" ddl="438a457a-e750-4624-abd6-568cb1199516" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="438a457a-e750-4624-abd6-568cb1199516" />
+          <option name="name" value="test_mem (DDL)" />
+          <option name="dbmsName" value="H2" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/src/test/resources" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

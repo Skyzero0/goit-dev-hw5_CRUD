@@ -1,0 +1,5 @@
+{
+  "jdbcUrl": "jdbc:h2:mem:test_mem;DB_CLOSE_DELAY=-1",
+  "jdbcUser": "sa",
+  "jdbcPassword": ""
+}
